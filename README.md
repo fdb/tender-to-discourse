@@ -40,10 +40,10 @@ A second script will be developed to upload the downloaded data to a Discourse i
 
 ## Usage
 
-Run the `download-categories.py` script to start downloading the data:
+Run the `download-tender.py` script to start downloading the data:
 
 ```sh
-python download-categories.py
+python download-tender.py
 ```
 
 The script will create a `data` directory and organize the downloaded data into subdirectories based on categories, discussions, and comments.
